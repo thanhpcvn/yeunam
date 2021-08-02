@@ -1,13 +1,13 @@
-.messageTitle { padding: 20px; background-color: #ff9595; color: #523939; font-family: 'Dancing Script', cursive; font-size: 26pt; }
+html, body { width: 100%; height: 100%; display: flex; align-items: center; }
 
-.steal { font-family: 'Dancing Script', cursive; font-size: 18pt; }
 
-.content { background-color: #ffb2b2; }
+#Yes{width: 156px;;}
 
-body { background-color: pink; }
+#No{padding-left: 200px;}
 
-span { display: inline-block; white-space: pre; }
-
-.btn-outline-danger a { color: black; font-family: 'Dancing Script', cursive; font-size: 18pt; }
-
-.btn-outline-danger:hover {background-color: #ff9595; color: white}
+button{width: 156px;}
+.btn-outline-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
