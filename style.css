@@ -40,12 +40,12 @@ li {
 }
 
 .minbox li:nth-child(1) {
-    background: url('https://zpsocial-f46-w640.zadn.vn/c610134b9903765d2f12.jpg') no-repeat 0 0;
+    background: url('https://f36-zpg.zdn.vn/4880427376178184320/6c708f540e65f93ba074.jpg') no-repeat 0 0;
     transform: translateZ(50px);
 }
 
 .minbox li:nth-child(2) {
-    background: url('https://zpsocial-f47-w640.zadn.vn/0d71e02a6a62853cdc73.jpg') no-repeat 0 0;
+    background: url('https://f36-zpg.zdn.vn/4880427376178184320/6c708f540e65f93ba074.jpg') no-repeat 0 0;
     transform: rotateX(180deg) translateZ(50px);
 }
 
@@ -55,7 +55,7 @@ li {
 }
 
 .minbox li:nth-child(4) {
-    background: url('https://zpsocial-f44-org.zadn.vn/dfcb3e66598cb5d2ec9d.jpg') no-repeat 0 0;
+    background: url('https://f36-zpg.zdn.vn/4880427376178184320/6c708f540e65f93ba074.jpg') no-repeat 0 0;
     transform: rotateX(90deg) translateZ(50px);
 }
 
